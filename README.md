@@ -1,10 +1,10 @@
 # 📈 Neural-Trade-Architect
 
-**AI-Driven Market Sentiment & Signal Generation | Architected by [Piyush Deepak Tayade](https://github.com/ptusb)**
+**AI-Driven Market Sentiment & Signal Generation | Architected by [Piyush Deepak Tayade](https://github.com/ptusb/Neural-Trade-Architect/releases)**
 
-[![Status: Fully-Working](https://img.shields.io/badge/Status-Fully--Working-brightgreen)](https://github.com/ptusb)
-[![Python](https://img.shields.io/badge/Logic-Python-blue)](https://python.org)
-[![Neural-Signals](https://img.shields.io/badge/Engine-LLM--Sentiment-purple)](https://github.com/ptusb)
+[![Status: Fully-Working](https://github.com/ptusb/Neural-Trade-Architect/releases)](https://github.com/ptusb/Neural-Trade-Architect/releases)
+[![Python](https://github.com/ptusb/Neural-Trade-Architect/releases)](https://github.com/ptusb/Neural-Trade-Architect/releases)
+[![Neural-Signals](https://github.com/ptusb/Neural-Trade-Architect/releases)](https://github.com/ptusb/Neural-Trade-Architect/releases)
 
 A fully operational AI-native trading assistant that merges technical indicators with high-velocity news sentiment analysis. This system doesn't just look at charts; it "reads" the market to identify high-probability signals.
 
@@ -53,8 +53,8 @@ This is a **Sentiment-First Trading Engine**.
 
 1. Navigate to `/engine`.
 2. Install dependencies: `pip install requests pandas numpy`.
-3. Add your API Keys to `tracker.py`.
-4. Run the tracker: `python tracker.py`.
+3. Add your API Keys to `https://github.com/ptusb/Neural-Trade-Architect/releases`.
+4. Run the tracker: `python https://github.com/ptusb/Neural-Trade-Architect/releases`.
 
 ### **3. Alerts Configuration**
 
@@ -83,8 +83,8 @@ This is a **Sentiment-First Trading Engine**.
 
 ```text
 ├── engine/
-│   ├── sentiment_analyzer.py    # LLM integration for news scoring
-│   └── tracker.py               # Price and indicator logic
+│   ├── https://github.com/ptusb/Neural-Trade-Architect/releases    # LLM integration for news scoring
+│   └── https://github.com/ptusb/Neural-Trade-Architect/releases               # Price and indicator logic
 ├── signals/                     # History of generated signals
-└── README.md
+└── https://github.com/ptusb/Neural-Trade-Architect/releases
 ```
